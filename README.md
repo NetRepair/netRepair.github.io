@@ -1,3 +1,5 @@
+<html lang="en">
+
 <style>
   .header {
   position: sticky;
@@ -7,8 +9,6 @@
   color: #f1f1f1;
 }
 </style>
-
-<html lang="en">
 
 <body>
   <div class="header" id="Header">
