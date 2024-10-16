@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <style>
   .header {
   position: sticky;
